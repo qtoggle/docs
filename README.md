@@ -3,9 +3,7 @@
 
 qToggle is a way of interconnecting sensors, actuators and other data sources. qToggle works by leveraging the power of a flexible [API](https://github.com/qtoggle/docs/wiki/The-qToggle-API-1.0), which lays the groundwork of a simple, common communication scheme.
 
-qToggle attempts to impose a standard that allows managing, provisioning and talking to devices.
-
-Rather than reinventing the wheel, qToggle makes use of existing, widely used, technologies, such as RESTful APIs on top of HTTP, passing over data encoded as JSON.
+qToggle attempts to impose a standard that allows managing, provisioning and talking to devices. Rather than reinventing the wheel, qToggle makes use of existing, widely used, technologies, such as RESTful APIs on top of HTTP, passing over data encoded as JSON.
 
 There currently are two opensource implementations of the qToggle API:
  * [qToggleServer](https://github.com/qtoggle/qtoggleserver), offering a backend written in Python and a frontend in the form of a [progressive web app](https://github.com/qtoggle/qtoggleserver/wiki/Web-App)
