@@ -1,6 +1,6 @@
 [![Join us on https://gitter.im/qtoggle/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/qtoggle/community?utm_source=badge&utm_medium=badge&utm_content=badge)
 
-##
+---
 
 
 ## About qToggle
